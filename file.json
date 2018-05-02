@@ -1,0 +1,44 @@
+    [
+        {
+            "countryName": "India",
+            "cities": [
+            {
+                "id": 1,
+                "name": "Banglaore",
+                "founded": -200,
+                "beautiful": true,
+                "data": 123,
+                "keywords": ["Kaveri", "River"]
+            },
+            {
+                "id": 1,
+                "name": "Pune",
+                "founded": 0,
+                "beautiful": false,
+                "data": "no",
+                "keywords": ["FSDF", "FS"]
+            }
+            ]
+        },
+        {
+            "countryName": "US",
+            "cities": [
+            {
+                "id": 2,
+                "name": "CA",
+                "founded": -200,
+                "beautiful": true,
+                "data": 123,
+                "keywords": ["RT", "SSF"]
+            },
+            {
+                "id": 2,
+                "name": "NY",
+                "founded": 0,
+                "beautiful": false,
+                "data": "no",
+                "keywords": ["GSG", "DG"]
+            }
+            ]
+        }
+    ]
